@@ -1,0 +1,17 @@
+.gradientCircleMj{
+    background-image: radial-gradient(farthest-corner at 40px 40px,
+    transparent 0%,
+    rgb(51, 190, 255) 400%
+    );
+    box-shadow: 0 0 50px 1px rgba(51, 190, 255, 0.411);
+}
+
+.IntroCardBg{
+    background-image: linear-gradient(to bottom, transparent ,#0f1729);
+}
+.ProjectsCardBg{
+    background-image: linear-gradient(to bottom, transparent ,#142242);
+}
+.JBBWR{
+    background-color: rgb(95, 95, 95);
+}

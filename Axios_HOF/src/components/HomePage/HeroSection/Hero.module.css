@@ -1,0 +1,103 @@
+
+  .banner {
+    margin-top: 0;
+    /* padding: 70px 20px 100px 20px; */
+    position: absolute;
+    top: 20%;
+    left: 2%;
+    backdrop-filter: blur(3px);
+    border-radius: 50px;
+    user-select: none;
+    pointer-events: none;
+  }
+  .banner .Tagline {
+    font-weight: 700;
+    letter-spacing: 0px;
+    padding: 8px 10px;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    display: inline-block;
+    color:rgb(255, 255, 86);
+    letter-spacing: 2px;
+    text-shadow: 0 0 15px #fff, 0 0 0px #fff, 0 0 0px #060606, 0 0 20px #000000,   0 0 3px #000000;
+    backdrop-filter: blur(100px);
+    border-radius: 50px;
+  }
+  .banner h1 {
+    font-size: 90px;
+    /* font-weight: 700; */
+    letter-spacing: 0.8px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    line-height: 1;
+    margin: 0px;
+    padding: 0px;
+    margin-bottom: 20px;
+    display: block;
+    color: whitesmoke;
+  }
+
+  .wrap{
+    color: white;
+  }
+
+  .banner p {
+    color: #ffffff;
+    font-size: 28px;
+    letter-spacing: 0.8px;
+    line-height: 1.5em;
+    width: 96%;
+    /* margin-left: 2%; */
+    margin-bottom: 0px;
+  }
+  .banner button {
+    color: #fff;
+    font-weight: 700;
+    font-size: 20px;
+    /* margin-top: 60px; */
+    letter-spacing: 0.8px;
+    display: flex;
+    align-items: center;
+    
+  }
+  .banner button svg {
+    font-size: 25px;
+    margin-left: 10px;
+    transition: 0.3s ease-in-out;
+    line-height: 1;
+   
+  }
+  .banner button:hover svg {
+    margin-left: 25px;
+    
+  }
+
+  /* .banner img {
+    border-radius: 50%;
+  } */
+  /* .banner img {
+    animation: updown 3s linear infinite;
+  }
+  @keyframes updown {
+      0% {
+          transform: translateY(-20px);
+      }
+      50% {
+          transform: translateY(20px);
+      }
+      100% {
+          transform: translateY(-20px);
+      }
+  } */
+  .txt-rotate > .wrap {
+    border-right: 0.08em solid #666;
+  }
+  /* .appearingText{
+    backdrop-filter: blur(5px);
+  } */
+
+  .heroImage{
+    margin-right: 25rem;
+    margin-left: 10rem;
+  }
+
+

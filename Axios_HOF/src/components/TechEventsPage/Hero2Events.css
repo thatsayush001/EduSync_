@@ -1,0 +1,20 @@
+.yellow2TextHelo{
+    font-size: 40px;
+    color: gold;
+    font-family: monospace;
+    transition: transform 0.5s;
+}
+.yellow2TextHelo:hover{
+    transform: scale(1.2);
+    margin-left: 70px;
+    
+}
+.hero2Class{
+    background-color: black;
+    /* margin-top: 55px; */
+    padding: 70px;
+    z-index: -2;
+    color: white;
+    font-size: larger;
+}
+
